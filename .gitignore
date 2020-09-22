@@ -140,4 +140,7 @@ dmypy.json
 cython_debug/
 
 #Pychar5¡m stuff
+.idea
+.idea/
 ./idea/
+.idea2/
